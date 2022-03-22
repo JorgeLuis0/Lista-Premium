@@ -178,3 +178,207 @@ http://bit.ly/1TGa5P9
 
 #EXTINF:-1, DC Eagle Cam A
 https://americaneagle-lh.akamaihd.net/i/AEF_DC1@31049/master.m3u8
+
+#EXTINF:-1,Telemundo
+https://i.imgur.com/sxNI7nx.png",Telemundo
+
+#EXTINF:-1,ESTRENOS:LA BELLA DURMIENTE (CLASICA)
+http://bit.ly/LABELLAMOVIE
+
+#EXTINF:-1,ESTRENOS:THE EVIL WITHIN (2017)
+http://bit.ly/EVILWITHIN_MOVIE
+
+#EXTINF:-1,ESTRENOS:THE MINE (2017)
+http://bit.ly/THEMINE
+
+#EXTINF:-1,ESTRENOS:SAHARA (2017)
+http://bit.ly/SAHARAMOVIE
+
+#EXTINF:-1,ESTRENOS:Mascota Humana (2016)
+http://bit.ly/MASCOTAHUMANA
+
+#EXTINF:-1,ESTRENOS:Sandy Wexler (2017)
+http://bit.ly/MRAQCSAND
+
+#EXTINF:-1,ESTRENOS:Sand Castle (2017)
+http://bit.ly/MRAQCASTI
+
+#EXTINF:-1,CHUCKY 1
+https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!841&authkey=!AKlwdk4JdAep8kc&ithint=video%2cmp4
+
+#EXTINF:-1,CHUCKY 2
+https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!843&authkey=!AI3_Mz6ivD6r9oM&ithint=video%2cmp4
+
+#EXTINF:-1,CHUCKY 3
+https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!854&authkey=!AMqj_KRCJnKhYTw&ithint=video%2cmp4
+
+#EXTINF:-1,LA NOVIA DE CHUCKY
+https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!853&authkey=!AKSBrXTX9RUVsnU&ithint=video%2cmp4
+
+#EXTINF:-1,La Fuerza De La Ilusion
+https://archive.org/download/LFdlISRREGIO/LFdlISRREGIO.mkv
+
+#EXTINF:-1,Cuando nos Conocimos
+https://archive.org/download/CuNoCoSRREGIO/CuNoCoSRREGIO.mkv
+
+#EXTINF:-1,0182268_AL_.jpg" Nosotros Los Nobles | SRREGIO.NET
+https://archive.org/download/NoLoNoSRREGIO_20180212/NoLoNoSRREGIO.mp4
+
+#EXTINF:-1,The Cloverfield Paradox
+https://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
+
+#EXTINF:-1,Terminus
+https://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+
+#EXTINF:-1,Deadpool
+https://archive.org/download/DeSRREGIO_201802/DeSRREGIO.mkv
+
+#EXTINF:-1,Intensamente | ACHOAPPS.com
+https://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
+
+#EXTINF:-1,JIGSAW VIII | ACHOAPPS.com
+https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
+
+#EXTINF:-1,Redada Asesina | ACHOAPPS.com
+https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
+
+#EXTINF:-1,SAHARA (2017)
+https://ia801603.us.archive.org/20/items/3453453453454456456456465/17052017_fseer.mp4?PelixMax1.mp4
+
+#EXTINF:-1,THE MINE (2017)
+https://ia801603.us.archive.org/20/items/24052017Aqc789423784723984/24052017_aqc.mkv?PelixMax1.mkv
+
+#EXTINF:-1,LA MINA (2017)
+https://archive.org/download/24052017Aqc789423784723984/24052017_aqc.mkv?Pelixmax1.mkv
+
+#EXTINF:-1,PelixMax 1: Castillo de Arena (2017)
+https://archive.org/download/08052017CAQM8844JR8HF/08052017CAQM.mkv?Pelixmax1.mkv
+
+#EXTINF:-1,Sandy Wexler HD(2017) (Dual Audio)
+https://ia801603.us.archive.org/20/items/04052017AQMCMA04052017AQC/04052017AQMCMA.mkv?Pelixmax1.mkv
+
+#EXTINF:-1,PelixMax 1: El Mal Dentro (2017)
+https://archive.org/download/01062017Aqc782937187398721893/01062017_aqc.avi?Pelixmax1.avi
+
+#EXTINF:-1,Chucky El MuÃ±eco Diabolico (TERROR)
+https://archive.org/download/080520712070508aCh/08052071.mkv?Pelixmax1.mp4
+
+#EXTINF:-1,Chucky El MuÃ±eco Diabolico II (TERROR)
+https://archive.org/download/08052017Ch2320170508/08052017_ch23.mkv?Pelixmax1.mp4
+
+#EXTINF:-1,Santo contra los Cazadores de Cabezas 1971
+https://archive.org/download/sancaz71/sancaz71.avi
+
+#EXTINF:-1,Santo en la Mision Suicida 1971
+https://archive.org/download/sancaz71/sanmis71.avi
+
+#EXTINF:-1,Santo contra la Hija de Frankestein 1971
+https://archive.org/download/sanhifran71/sanhifran71.avi
+
+#EXTINF:-1,Santo contra la Mafia del Vicio 1971
+https://archive.org/download/sanhifran71/sanmavi71.avi
+
+#EXTINF:-1,Santo y Blue Demon en el Mundo de los Muertos 1970
+https://archive.org/download/sanmumu70/sanmumu70.avi
+
+#EXTINF:-1,Santo y la Venganza de las Mujeres Vampiro 1970
+https://archive.org/download/sanmumu70/sanvevam70.avi
+
+#EXTINF:-1,Santo contra los Jinetes del Terror 1970
+https://archive.org/download/sanca69/sanjite70.avi
+
+#EXTINF:-1,Santo contra Capulina 1969
+https://archive.org/download/sanca69/sanca69.avi
+
+#EXTINF:-1,Santo y Blue Demon contra los Monstruos 1969
+https://archive.org/download/sanca69/sanblumon69.avi
+
+#EXTINF:-1,Santo y el Tesoro de Moctezuma 1968
+https://archive.org/download/sanbabra67/santemo68.avi
+
+#EXTINF:-1,Santo contra Blue Demon en la Atlantida 1969
+https://archive.org/download/sanbabra67/sanbluat69.avi
+
+#EXTINF:-1,Santo contra el Baron Brakola 1967
+https://archive.org/download/sanbabra67/sanbabra67.avi
+
+#EXTINF:-1,Santo y los Profanadores de Tumbas 1966
+https://archive.org/download/saneses66/sanprotu66.avi
+
+#EXTINF:-1,Santo en la Operacion 67 1967
+https://archive.org/download/saneses66/sanop67.avi
+
+#EXTINF:-1,Santo contra el Espectro del Estrangulador 1966
+https://archive.org/download/saneses66/saneses66.avi
+
+#EXTINF:-1,Santo y Blue Demon contra el Poder Satanico 1964
+https://archive.org/download/sanbru64/sanposat64.avi
+
+#EXTINF:-1,Santo contra el Hacha Diabolica 1965
+https://archive.org/download/sanbru64/sanhada65.avi
+
+#EXTINF:-1,Santo en el Ataque de las Brujas 1964
+https://archive.org/download/sanbru64/sanbru64.avi
+
+#EXTINF:-1,Santo en el Museo de Cera 1963
+https://archive.org/download/sanmuce63/sanmuce63.avi
+
+#EXTINF:-1,Santo contra las Momias de Guanajuato 1972
+https://archive.org/download/sanmog72/sanmog72.avi
+
+#EXTINF:-1,Santo en el Hotel de la Muerte 1963
+https://archive.org/download/sanhom63/sanhom63.avi
+
+#EXTINF:-1,Santo frente a la muerte 1969
+https://archive.org/download/sanmu69/sanmu69.avi
+
+#EXTINF:-1,  ANGRY BIRDS
+http://cecegeek@goo.gl/3KGMLf
+
+#EXTINF:-1,  VOLVER AL FUTURO3
+https://ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
+
+#EXTINF:-1, CHUKY EL MUNHECO DIABOLICO (TERROR)
+http://bit.ly/MRAQCCHUCK
+
+#EXTINF:-1, COLOSSAL (2016)
+http://bit.ly/2w5zZIw
+
+#EXTINF:-1, MI VIDA A LOS 17
+http://bit.ly/2v16m9z
+
+#EXTINF:-1,SPECTRE
+https://goo.gl/3KGMLf
+
+#EXTINF:-1,BLOOD IN BLOOD OUT/ VATOS LACOS
+http://www.deadlyblogger.com/NewRelease/blood.mp4
+
+#EXTINF:-1,EL DIARIO DE BRIGDGETT  2016
+https://onedrive.live.com/download?cid=9879d453fb55bed4&resid=9879D453FB55BED4%21108&authkey=!AA5xl6XOeiMGoJU
+
+#EXTINF:-1, Sandy Wexler (2017)
+http://bit.ly/2wVc9yV
+
+#EXTINF:-1, Chucky El MuÃ±eco Diabolico II (TERROR)
+http://bit.ly/MRAQCCHUK2
+
+#EXTINF:-1,#EXTINF:-1.:volver al futuro 3
+https://iptvperu@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
+
+#EXTINF:-1,#EXTINF:-1.:volver al futuro 3
+https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4?disco
+
+#EXTINF:-1, ANGRY BIRDS
+http://iptvperu@goo.gl/3KGMLf
+
+#EXTINF:-1,Prometeus 2012 HD
+https://archive.org/download/PROMEPELIXMAX1/PROMEPELIXMAX1.mp4
+
+#EXTINF:-1,Deadpool
+https://ia800108.us.archive.org/24/items/DeSRREGIO_201802/DeSRREGIO.mp4
+
+#EXTINF:-1, SAW VIII SUBTITULADO |
+https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
+
+#EXTINF:-1, Guardianes de la Galaxia | ACHOAPPS.com
+https://goo.gl/sFaEVq
