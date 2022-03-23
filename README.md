@@ -332,6 +332,15 @@ https://archive.org/download/sanhom63/sanhom63.avi
 #EXTINF:-1,Santo frente a la muerte 1969
 https://archive.org/download/sanmu69/sanmu69.avi
 
+#EXTINF:-1,Santo contra el cerebro del mal 1958
+https://archive.org/download/santocontracerebrodelmal1958/Santo%20contra%20Cerebro%20Del%20Mal%20%281958%29.mp4
+
+#EXTINF:-1,Santo en El Vampiro y el sexo 1968
+https://archive.org/download/elvampiroyelsexo1968/El%20Vampiro%20y%20El%20Sexo%20%281968%29.mp4
+
+#EXTINF:-1,Santo en el tesoro de Drácula 1968
+https://archive.org/download/santoeneltesorodedracula1968/Santo%20en%20El%20tesoro%20de%20Dracula%20%281968%29.mp4
+
 #EXTINF:-1,  ANGRY BIRDS
 http://cecegeek@goo.gl/3KGMLf
 
