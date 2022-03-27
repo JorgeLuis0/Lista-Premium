@@ -266,50 +266,18 @@ https://archive.org/download/080520712070508aCh/08052071.mkv?Pelixmax1.mp4
 #EXTINF:-1,Chucky El MuÃ±eco Diabolico II (TERROR)
 https://archive.org/download/08052017Ch2320170508/08052017_ch23.mkv?Pelixmax1.mp4
 
-#EXTINF:-1,Santo contra los Cazadores de Cabezas 1971
-https://archive.org/download/sancaz71/sancaz71.avi
 
-#EXTINF:-1,Santo en la Mision Suicida 1971
-https://archive.org/download/sancaz71/sanmis71.avi
+#EXTINF:-1,Santo contra el cerebro del mal 1958
+https://archive.org/download/santocontracerebrodelmal1958/Santo%20contra%20Cerebro%20Del%20Mal%20%281958%29.mp4
 
-#EXTINF:-1,Santo contra la Hija de Frankestein 1971
-https://archive.org/download/sanhifran71/sanhifran71.avi
+#EXTINF:-1,Santo en el Museo de Cera 1963
+https://archive.org/download/sanmuce63/sanmuce63.avi
 
-#EXTINF:-1,Santo contra la Mafia del Vicio 1971
-https://archive.org/download/sanhifran71/sanmavi71.avi
+#EXTINF:-1,Santo en el Hotel de la Muerte 1963
+https://archive.org/download/sanhom63/sanhom63.avi
 
-#EXTINF:-1,Santo y Blue Demon en el Mundo de los Muertos 1970
-https://archive.org/download/sanmumu70/sanmumu70.avi
-
-#EXTINF:-1,Santo y la Venganza de las Mujeres Vampiro 1970
-https://archive.org/download/sanmumu70/sanvevam70.avi
-
-#EXTINF:-1,Santo contra los Jinetes del Terror 1970
-https://archive.org/download/sanca69/sanjite70.avi
-
-#EXTINF:-1,Santo contra Capulina 1969
-https://archive.org/download/sanca69/sanca69.avi
-
-#EXTINF:-1,Santo y Blue Demon contra los Monstruos 1969
-https://archive.org/download/sanca69/sanblumon69.avi
-
-#EXTINF:-1,Santo y el Tesoro de Moctezuma 1968
-https://archive.org/download/sanbabra67/santemo68.avi
-
-#EXTINF:-1,Santo contra Blue Demon en la Atlantida 1969
-https://archive.org/download/sanbabra67/sanbluat69.avi
-
-#EXTINF:-1,Santo contra el Baron Brakola 1967
-https://archive.org/download/sanbabra67/sanbabra67.avi
-
-#EXTINF:-1,Santo y los Profanadores de Tumbas 1966
-https://archive.org/download/saneses66/sanprotu66.avi
-
-#EXTINF:-1,Santo en la Operacion 67 1967
-https://archive.org/download/saneses66/sanop67.avi
-
-#EXTINF:-1,Santo contra el Espectro del Estrangulador 1966
-https://archive.org/download/saneses66/saneses66.avi
+#EXTINF:-1,Santo en el Ataque de las Brujas 1964
+https://archive.org/download/sanbru64/sanbru64.avi
 
 #EXTINF:-1,Santo y Blue Demon contra el Poder Satanico 1964
 https://archive.org/download/sanbru64/sanposat64.avi
@@ -317,77 +285,74 @@ https://archive.org/download/sanbru64/sanposat64.avi
 #EXTINF:-1,Santo contra el Hacha Diabolica 1965
 https://archive.org/download/sanbru64/sanhada65.avi
 
-#EXTINF:-1,Santo en el Ataque de las Brujas 1964
-https://archive.org/download/sanbru64/sanbru64.avi
+#EXTINF:-1,Santo y los Profanadores de Tumbas 1966
+https://archive.org/download/saneses66/sanprotu66.avi
 
-#EXTINF:-1,Santo en el Museo de Cera 1963
-https://archive.org/download/sanmuce63/sanmuce63.avi
+#EXTINF:-1,Santo contra el Espectro del Estrangulador 1966
+https://archive.org/download/saneses66/saneses66.avi
 
-#EXTINF:-1,Santo contra las Momias de Guanajuato 1972
-https://archive.org/download/sanmog72/sanmog72.avi
+#EXTINF:-1,Santo Vs La Invasión De Los Marcianos (1967)
+https://ia804602.us.archive.org/33/items/el-santo-vs-la-invasion-de-los-marcianos-1967-pelicula-completa/El%20Santo%20vs%20La%20Invasi%C3%B3n%20de%20los%20Marcianos%2C%201967%20_%20Pel%C3%ADcula%20Completa.mp4
 
-#EXTINF:-1,Santo en el Hotel de la Muerte 1963
-https://archive.org/download/sanhom63/sanhom63.avi
+#EXTINF:-1,Santo contra el Baron Brakola 1967
+https://archive.org/download/sanbabra67/sanbabra67.avi
 
-#EXTINF:-1,Santo frente a la muerte 1969
-https://archive.org/download/sanmu69/sanmu69.avi
+#EXTINF:-1,Santo en la Operacion 67 1967
+https://archive.org/download/saneses66/sanop67.avi
 
-#EXTINF:-1,Santo contra el cerebro del mal 1958
-https://archive.org/download/santocontracerebrodelmal1958/Santo%20contra%20Cerebro%20Del%20Mal%20%281958%29.mp4
-
-#EXTINF:-1,Santo en El Vampiro y el sexo 1968
-https://archive.org/download/elvampiroyelsexo1968/El%20Vampiro%20y%20El%20Sexo%20%281968%29.mp4
+#EXTINF:-1,Santo y el Tesoro de Moctezuma 1968
+https://archive.org/download/sanbabra67/santemo68.avi
 
 #EXTINF:-1,Santo en el tesoro de Drácula 1968
 https://archive.org/download/santoeneltesorodedracula1968/Santo%20en%20El%20tesoro%20de%20Dracula%20%281968%29.mp4
 
-#EXTINF:-1,  ANGRY BIRDS
-http://cecegeek@goo.gl/3KGMLf
+#EXTINF:-1,Santo en El Vampiro y el sexo 1968
+https://archive.org/download/elvampiroyelsexo1968/El%20Vampiro%20y%20El%20Sexo%20%281968%29.mp4
 
-#EXTINF:-1,  VOLVER AL FUTURO3
-https://ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
+#EXTINF:-1,Santo frente a la muerte 1969
+https://archive.org/download/sanmu69/sanmu69.avi
 
-#EXTINF:-1, CHUKY EL MUNHECO DIABOLICO (TERROR)
-http://bit.ly/MRAQCCHUCK
+#EXTINF:-1,Santo y Blue Demon contra los Monstruos 1969
+https://archive.org/download/sanca69/sanblumon69.avi
 
-#EXTINF:-1, COLOSSAL (2016)
-http://bit.ly/2w5zZIw
+#EXTINF:-1,Santo contra Capulina 1969
+https://archive.org/download/sanca69/sanca69.avi
 
-#EXTINF:-1, MI VIDA A LOS 17
-http://bit.ly/2v16m9z
+#EXTINF:-1,Santo contra Blue Demon en la Atlantida 1969
+https://archive.org/download/sanbabra67/sanbluat69.avi
 
-#EXTINF:-1,SPECTRE
-https://goo.gl/3KGMLf
+#EXTINF:-1,Santo contra los Jinetes del Terror 1970
+https://archive.org/download/sanca69/sanjite70.avi
 
-#EXTINF:-1,BLOOD IN BLOOD OUT/ VATOS LACOS
-http://www.deadlyblogger.com/NewRelease/blood.mp4
+#EXTINF:-1,Santo y la Venganza de las Mujeres Vampiro 1970
+https://archive.org/download/sanmumu70/sanvevam70.avi
 
-#EXTINF:-1,EL DIARIO DE BRIGDGETT  2016
-https://onedrive.live.com/download?cid=9879d453fb55bed4&resid=9879D453FB55BED4%21108&authkey=!AA5xl6XOeiMGoJU
+#EXTINF:-1,Santo y Blue Demon en el Mundo de los Muertos 1970
+https://archive.org/download/sanmumu70/sanmumu70.avi
 
-#EXTINF:-1, Sandy Wexler (2017)
-http://bit.ly/2wVc9yV
+#EXTINF:-1,Santo contra la Mafia del Vicio 1971
+https://archive.org/download/sanhifran71/sanmavi71.avi
 
-#EXTINF:-1, Chucky El MuÃ±eco Diabolico II (TERROR)
-http://bit.ly/MRAQCCHUK2
+#EXTINF:-1,Santo contra la Hija de Frankestein 1971
+https://archive.org/download/sanhifran71/sanhifran71.avi
 
-#EXTINF:-1,#EXTINF:-1.:volver al futuro 3
-https://iptvperu@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
+#EXTINF:-1,Santo en la Mision Suicida 1971
+https://archive.org/download/sancaz71/sanmis71.avi
 
-#EXTINF:-1,#EXTINF:-1.:volver al futuro 3
-https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4?disco
+#EXTINF:-1,Santo contra los Cazadores de Cabezas 1971
+https://archive.org/download/sancaz71/sancaz71.avi
 
-#EXTINF:-1, ANGRY BIRDS
-http://iptvperu@goo.gl/3KGMLf
+#EXTINF:-1,Santo contra las Momias de Guanajuato 1972
+https://archive.org/download/sanmog72/sanmog72.avi
 
-#EXTINF:-1,Prometeus 2012 HD
-https://archive.org/download/PROMEPELIXMAX1/PROMEPELIXMAX1.mp4
+#EXTINF:-1,Santo en Anónimo mortal (1975)
+https://archive.org/download/anonimo-mortal/Santo%20en%20Ano%CC%81nimo%20mortal%20%281975%29.mp4
 
-#EXTINF:-1,Deadpool
-https://ia800108.us.archive.org/24/items/DeSRREGIO_201802/DeSRREGIO.mp4
+#EXTINF:-1,Entre Hierba, Polvo Y Plomo(1984)
+https://archive.org/download/y-2-mate.is-sergio-goiry-entre-hierba-polvo-y-plomo-lxrofy-07130-480p-1637736582664/Y2Mate.is%20-%20SERGIO%20GOIRY%20ENTRE%20HIERBA%20POLVO%20Y%20PLOMO-LXROFY07130-480p-1637736582664.mp4
 
-#EXTINF:-1, SAW VIII SUBTITULADO |
-https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
+#EXTINF:-1,Los Hermanos Del Hierro ( 1961)
+https://archive.org/download/y-2-mate.is-los-hermanos-del-hierro-1961-pelicula-completa-hd-fj-2d-kr-nendo-720p-1639619224325/Y2Mate.is%20-%20Los%20Hermanos%20del%20Hierro%20%281961%29%20%20Pel%C3%ADcula%20completa%20HD-fj2dKrNENdo-720p-1639619224325.mp4
 
-#EXTINF:-1, Guardianes de la Galaxia | ACHOAPPS.com
-https://goo.gl/sFaEVq
+#EXTINF:-1,El Hijo De Gabino Barrera ( 1965)
+https://archive.org/download/el-hijo-de-gabino-barrera-1964/El%20Hijo%20De%20Gabino%20Barrera%20%281964%29.mp4
